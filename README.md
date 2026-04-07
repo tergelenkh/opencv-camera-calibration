@@ -95,7 +95,16 @@ This process generates a rectified output video with reduced lens distortion.
 - corrected video output
 - visual comparison between original and rectified frames
 
-![image](images/result.png)
+![image](result1.png)
+![image](result2.png)
+![image](result3.png)
+## Results
+
+The first image shows successful chessboard corner detection used for calibration.
+
+The second and third images show the distortion correction result.
+Compared to the original frame, the corrected frame appears more geometrically aligned, showing that lens distortion was successfully reduced.
+
 
 ---
 
